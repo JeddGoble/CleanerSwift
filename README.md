@@ -1,3 +1,6 @@
+# CleanerSwift
+A modified (and cleaner!) version of Raymond Law's excellent Clean-Swift Xcode template
+
 To learn more about Clean Swift and the VIP cycle, read:
 
 http://clean-swift.com/clean-swift-ios-architecture
@@ -13,3 +16,4 @@ To install the Clean Swift Xcode templates, run:
 To uninstall the Clean Swift Xcode templates, run:
 
 > make uninstall_templates
+
